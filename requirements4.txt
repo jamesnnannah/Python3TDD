@@ -66,8 +66,6 @@ simplejson==3.16.0
 six==1.14.0
 texttable==1.6.2
 toml==0.10.2
-ubuntu-advantage-tools==20.3
-ubuntu-drivers-common==0.0.0
 urllib3==1.25.8
 usb-creator==0.3.7
 virtualenv==20.7.0
