@@ -24,4 +24,5 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            pytest -v  .
+            pytest -v --cov test_stack.py
+    
